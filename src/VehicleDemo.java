@@ -12,9 +12,10 @@ public class VehicleDemo {
        sportcar.fuelcap = 14;
        sportcar.mpg = 12;
 
-        System.out.println("Мини-фургон может веревезти " + minivan.passengers + " пассажиров.");
-        minivan.range();
-        System.out.println("Спорткар может веревезти " + sportcar.passengers + " пассажиров.");
-        sportcar.range();
+       range1 = minivan.range();
+       range2 = sportcar.range();
+
+        System.out.println("Мини-фургон может веревезти " + minivan.passengers + " пассажиров на расстояние " + range1 + " миль.");
+        System.out.println("Спорткар может веревезти " + sportcar.passengers + " пассажиров на расстояние " + range2 + " миль.");
     }
 }
