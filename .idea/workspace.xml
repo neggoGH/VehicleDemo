@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="69f2622b-471c-4668-9a88-445f465455ab" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vehicle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/VehicleDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/VehicleDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
